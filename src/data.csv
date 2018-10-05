@@ -1,0 +1,17 @@
+1,1,What is the capital of Texas?,Austin
+2,1,hat is the capital of Oregon?,Salem
+3,1,What is the capital of Hawaii?,Honolulu
+4,2,What is 2+2?,4,https://www.amazon.com/dp/B0000AYIMH/?coliid=I3U5X5KCR6ZQSF&colid=1J6RZYW1KZVF2&psc=0
+5,3,As a radio frequency increases what happens to it's wavelength?,It gets shorter
+6,3,How do you calculate the length of a wavelength in meters?,300 divided by the frequency in megahertz.  e.g. 300/150mHz (144mhz) is near the 2 meter band
+7,4,In ham lingo this "Q" code means low power operation., QRP
+8,4,In ham lingo this "Q" code means your operating location., QTH
+9,2,In NATO phonetics U.S.A would be..., Uniform Sierra Alpha
+10,2,FM stands for...,Frequency Modulation
+11,2,AM stands for...,Amplitude Modulation
+12,2,SSB stands for...,Single Side Band
+13,2,CW stands for...,Continuous Wave. A.K.A. morse code
+14,3,The "2 meter" amateur band is part of what radio spectrum?,VHF (very high frequency)
+15,3,The "70 cm" amateur band is part of what radio spectrum?, UHF (ultra high frequency)
+16,3,When driving your car through a tunnel why does FM come through but not AM?, The AM wavelength is too long and cannot fit. Broadcast FM is a shorter wave which bounces and reflects better.
+17,2,S.O.S. in CW (morse code),... --- ...
